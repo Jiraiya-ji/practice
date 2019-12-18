@@ -2,6 +2,11 @@ package com.example.testdemo.leetcode;
 
 import com.example.testdemo.ListNode;
 
+/**
+ * 合并两个有序的链表
+ * 感觉自己是个傻子
+ */
+
 public class MergeTwoLists {
     public static void main(String[] args){
         MergeTwoLists mergeTwoLists = new MergeTwoLists();
@@ -13,8 +18,9 @@ public class MergeTwoLists {
         if(l2==null){
             return l1;
         }
-        ListNode store = null;
-        while (l1.next!=null&&l2.next!=null){
+        ListNode pre = new ListNode(-1);
+        ListNode store = pre;
+        while (l1!=null&&l2!=null){
             if (l1.val>l2.val){
                 store.next = l2;
                 l2 = l2.next;
@@ -22,8 +28,9 @@ public class MergeTwoLists {
                 store.next =l1;
                 l1 = l1.next;
             }
+            store = store.next;
         }
-        store.next = l1==null?l2:l1;
-        return store;
+        pre.next = l1==null?l2:l1;
+        return pre.next;
     }
 }
