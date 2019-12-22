@@ -1,18 +1,12 @@
 package com.example.testdemo.leetcode;
-
-import com.fasterxml.jackson.core.TreeNode;
+import com.example.testdemo.leetcode.realize.TreeNode;
 
 public class MaxDepth {
     public int maxDepth(TreeNode root) {
-
+        if(root.right==null&&root.left==null){
+            return 0;
+        }
+            return maxDepth(root.left)+1;
     }
 
-}
-class Treenode{
-    public int val;
-    public Treenode left;
-    public Treenode right;
-    Treenode (int x){
-        this.val = x;
-    };
 }
