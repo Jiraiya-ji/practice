@@ -8,38 +8,37 @@ import java.util.LinkedList;
  */
 public class MaxDepth {
     public int maxDepth(TreeNode root) {
-        if(root==null){
+        if(null==root){
             return 0;
         }else {
-            int left_height = maxDepth(root.left);
-            int reight_height = maxDepth(root.right);
-            return Math.max(left_height,reight_height)+1;
+            int maxLeftDepth = maxDepth(root.left);
+            int maxRightDepth = maxDepth(root.right);
+            return Math.max(maxLeftDepth,maxRightDepth)+1;
         }
-//            return maxDepth(root.left)+1;
     }
     public int maxDepth1(TreeNode root){
-        if(root==null)
-            return 0;
-        LinkedList<Record> queue = new LinkedList<>();
-        queue.add(new Record(root, 1));
-        int depth = 0;
-        Record curr;
-        while(!queue.isEmpty()){
-            curr = queue.poll();
-            depth = Math.max(depth, curr.level);
-            if(curr.node.left!=null)
-                queue.add(new Record(curr.node.left, curr.level+1));
-            if(curr.node.right!=null)
-                queue.add(new Record(curr.node.right, curr.level+1));
+        LinkedList<TreeNodeRecord> queue = new LinkedList<>();
+        TreeNodeRecord treeNodeRecord = new TreeNodeRecord(1,root);
+        queue.add(treeNodeRecord);
+        int depth =1;
+        while (!queue.isEmpty()){
+            treeNodeRecord = queue.pop();
+            depth = Math.max(depth,treeNodeRecord.val);
+            if(treeNodeRecord.treeNode.left!=null){
+                queue.add(new TreeNodeRecord(treeNodeRecord.val+1,treeNodeRecord.treeNode.left));
+            }
+            if(treeNodeRecord.treeNode.right!=null){
+                queue.add(new TreeNodeRecord(treeNodeRecord.val+1,treeNodeRecord.treeNode.right));
+            }
         }
         return depth;
     }
-    public class Record{
-        TreeNode node;
-        int level;
-        Record(TreeNode node, int level){
-            this.node = node;
-            this.level = level;
+    public class TreeNodeRecord{
+        public int val;
+        public TreeNode treeNode;
+        public TreeNodeRecord(int val,TreeNode treeNode){
+            this.val = val;
+            this.treeNode = treeNode;
         }
     }
 
