@@ -25,6 +25,6 @@ public class RemoveElement {
                 left++;
             }
         }
-       return size;
+       return nums.length- size;
     }
 }
