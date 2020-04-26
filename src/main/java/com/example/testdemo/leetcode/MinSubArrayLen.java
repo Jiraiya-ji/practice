@@ -11,25 +11,25 @@ public class MinSubArrayLen {
             return 0;
         }
         int left = 0;
-        int right = 0;
         int sum = 0;
         int size = nums.length;
-        while (right<nums.length){
-            if(sum>=s){
-                if(right-left+1<size){
-                    size=right-left+1;
+        boolean flag = true;
+        for (int i = 0; i < nums.length; i++) {
+            sum+=nums[i];
+            while (sum>=s){
+                flag = false;
+                if(i-left+1<size){
+                    size=i-left+1;
                 }
                 sum-=nums[left];
                 left++;
-            }else {
-               right++;
-               sum+=nums[right];
             }
         }
-        return size;
-
+        return flag==false?size:0;
     }
     public static void main(String[] args){
-
+        int[] nums = {3,1,2,4,3};
+        MinSubArrayLen m = new MinSubArrayLen();
+        m.minSubArrayLen(7,nums);
     }
 }
