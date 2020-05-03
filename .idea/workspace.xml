@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="计算长度最小的数组ok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/Rotate1.java" afterDir="false" />
+    <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="移动数组">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/GetRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MinSubArrayLen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MinSubArrayLen.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +89,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.MinSubArrayLen">
+  <component name="RunManager" selected="Application.GetRow">
     <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.AddBinary" />
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.GetRow" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
@@ -126,19 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadSynchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Thread.ThreadSynchronized" />
-      <module name="testdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testdemo.Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -164,18 +167,18 @@
     <list>
       <item itemvalue="Application.AddBinary" />
       <item itemvalue="Application.TestReflect" />
-      <item itemvalue="Application.ThreadSynchronized" />
       <item itemvalue="Application.TwoSum2" />
       <item itemvalue="Application.MinSubArrayLen" />
       <item itemvalue="Spring Boot.TestdemoApplication" />
+      <item itemvalue="Application.GetRow" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GetRow" />
         <item itemvalue="Application.MinSubArrayLen" />
         <item itemvalue="Application.TwoSum2" />
         <item itemvalue="Application.TestReflect" />
         <item itemvalue="Application.AddBinary" />
-        <item itemvalue="Application.ThreadSynchronized" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +237,10 @@
       <workItem from="1588032906274" duration="634000" />
       <workItem from="1588050525400" duration="529000" />
       <workItem from="1588073808550" duration="57000" />
-      <workItem from="1588075123736" duration="2825000" />
+      <workItem from="1588075123736" duration="3490000" />
+      <workItem from="1588138499500" duration="1157000" />
+      <workItem from="1588156411066" duration="1343000" />
+      <workItem from="1588319808847" duration="8053000" />
     </task>
     <task id="LOCAL-00001" summary="Merge">
       <created>1576419573935</created>
@@ -306,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587917343217</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="移动数组">
+      <created>1588088831415</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588088831415</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,28 +371,33 @@
     <MESSAGE value="单例模式&#10;1.懒汉式单例&#10;2.饿汉式单例&#10;思考：如何保证多线程场景下的单例模式" />
     <MESSAGE value="计算长度最小的数组" />
     <MESSAGE value="计算长度最小的数组ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算长度最小的数组ok" />
+    <MESSAGE value="移动数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="移动数组" />
   </component>
   <component name="WindowStateProjectService">
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587690428218">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690428218" />
-    <state width="1358" height="227" key="GridCell.Tab.0.bottom" timestamp="1587917290147">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1358" height="181" key="GridCell.Tab.0.bottom" timestamp="1588475656812">
+      <screen x="0" y="23" width="1440" height="796" />
     </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1588475656812" />
     <state width="1358" height="227" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290147" />
-    <state width="1358" height="227" key="GridCell.Tab.0.center" timestamp="1587917290146">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1358" height="181" key="GridCell.Tab.0.center" timestamp="1588475656811">
+      <screen x="0" y="23" width="1440" height="796" />
     </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1588475656811" />
     <state width="1358" height="227" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1358" height="227" key="GridCell.Tab.0.left" timestamp="1587917290145">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1358" height="181" key="GridCell.Tab.0.left" timestamp="1588475656811">
+      <screen x="0" y="23" width="1440" height="796" />
     </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1588475656811" />
     <state width="1358" height="227" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290145" />
-    <state width="1358" height="227" key="GridCell.Tab.0.right" timestamp="1587917290146">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state width="1358" height="181" key="GridCell.Tab.0.right" timestamp="1588475656812">
+      <screen x="0" y="23" width="1440" height="796" />
     </state>
+    <state width="1358" height="181" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1588475656812" />
     <state width="1358" height="227" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
     <state width="1358" height="227" key="GridCell.Tab.1.bottom" timestamp="1587917290149">
       <screen x="0" y="23" width="1440" height="800" />
@@ -401,14 +419,15 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="527" y="169" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690473397" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1587690735430">
-      <screen x="0" y="23" width="1440" height="797" />
-    </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
-    <state x="300" y="192" key="Vcs.Push.Dialog.v2" timestamp="1587917390177">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1588088805876">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="300" y="192" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1587917390176" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1588088805876" />
+    <state x="300" y="192" key="Vcs.Push.Dialog.v2" timestamp="1588088841758">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="300" y="192" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1588088841758" />
     <state x="300" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1587831444160" />
   </component>
   <component name="XDebuggerManager">
