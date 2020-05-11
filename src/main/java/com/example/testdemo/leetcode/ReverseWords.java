@@ -16,4 +16,5 @@ public class ReverseWords {
         }
         return stringBuilder.toString().trim();
     }
+    //方法二 通过双指针实现
 }

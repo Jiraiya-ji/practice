@@ -20,11 +20,107 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="移动数组">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/GetRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/MoveZeroes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/realize/MyCircularQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/reflect/ReflectionIssueApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/restAssured/RestAssuredTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/CountStr$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/CountStr$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/CountStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/CountStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/SortList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/SortList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/SortList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/SortList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/ThreadSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Interview/ThreadSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/LoanOrderStatusInterationEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/LoanOrderStatusInterationEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/MaxProfit1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/MaxProfit1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/TestCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/TestCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Thread/ThreadSynchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Thread/ThreadSynchronized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/ExtrinsicState.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/ExtrinsicState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/SignInfoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/SignInfoFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/WoMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/design/WoMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/AddBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/AddTwoNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ContainsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ContainsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ContainsNearbyDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ContainsNearbyDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/DetectCycle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/DetectCycle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindDiagonalOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindDiagonalOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindRestaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindRestaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FirstUniqChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FirstUniqChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FourSumCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FourSumCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Generate1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Generate1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GetIntersectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GetIntersectionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GetRow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GetRow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/GroupAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/HasCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/HasCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/InorderTraversal2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/InorderTraversal2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Intersect1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Intersect1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsHappy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsHappy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsIsomorphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsIsomorphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsPalindrome2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsPalindrome2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsSymmetric.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsSymmetric.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsValidBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IsValidBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/LevelOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/LevelOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MaxDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MaxDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MergeTwoLists2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MinSubArrayLen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MinSubArrayLen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MoveZeroes1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MoveZeroes1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MyHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MyHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/NumJewelsInStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/NumJewelsInStones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/OddEvenList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/OddEvenList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/PreorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/PreorderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/RemoveElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/RemoveElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/RemoveNthFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/RemoveNthFromEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Reverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Reverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ReverseList2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/SingleNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/SolutionOfIsValidBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/SolutionOfIsValidBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TopKFrequent$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TopKFrequent$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TopKFrequent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TopKFrequent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/ValidSudoku.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/lengthOfLongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/lengthOfLongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/AdapterMethodIdiom.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/AdapterMethodIdiom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/DirList3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/DirList3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/DirList3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/DirList3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/EvenChecker$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/EvenChecker$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/EvenChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/EvenChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/InitClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/InitClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/ReadLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/ReadLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/SynMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/SynMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/TestVoliate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/TestVoliate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/ToyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/ToyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/tcp/SocketReceiver$Handler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/tcp/SocketReceiver$Handler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/tcp/SocketReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/tcp/SocketReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/testdemo/PalindromeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/testdemo/PalindromeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,18 +180,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.GetRow">
-    <configuration name="AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.AddBinary" />
+  <component name="RunManager" selected="Application.Class1_3">
+    <configuration name="Class1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Java8.Class1_3" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
+          <option name="PATTERN" value="com.example.testdemo.Java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.design.TestReflect" />
+    <configuration name="RestAssuredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.restAssured.RestAssuredTest" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testdemo.design.*" />
+          <option name="PATTERN" value="com.example.testdemo.restAssured.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,20 +261,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AddBinary" />
-      <item itemvalue="Application.TestReflect" />
       <item itemvalue="Application.TwoSum2" />
       <item itemvalue="Application.MinSubArrayLen" />
-      <item itemvalue="Spring Boot.TestdemoApplication" />
       <item itemvalue="Application.GetRow" />
+      <item itemvalue="Application.RestAssuredTest" />
+      <item itemvalue="Application.Class1_3" />
+      <item itemvalue="Spring Boot.TestdemoApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Class1_3" />
+        <item itemvalue="Application.RestAssuredTest" />
         <item itemvalue="Application.GetRow" />
         <item itemvalue="Application.MinSubArrayLen" />
         <item itemvalue="Application.TwoSum2" />
-        <item itemvalue="Application.TestReflect" />
-        <item itemvalue="Application.AddBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +336,14 @@
       <workItem from="1588075123736" duration="3490000" />
       <workItem from="1588138499500" duration="1157000" />
       <workItem from="1588156411066" duration="1343000" />
-      <workItem from="1588319808847" duration="8053000" />
+      <workItem from="1588319808847" duration="8570000" />
+      <workItem from="1588648446822" duration="6326000" />
+      <workItem from="1588687125140" duration="161000" />
+      <workItem from="1588741301484" duration="616000" />
+      <workItem from="1588827792813" duration="5346000" />
+      <workItem from="1588938154213" duration="12865000" />
+      <workItem from="1589159687596" duration="905000" />
+      <workItem from="1589198040332" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="Merge">
       <created>1576419573935</created>
@@ -340,11 +443,6 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -379,25 +477,33 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690428218" />
-    <state width="1358" height="181" key="GridCell.Tab.0.bottom" timestamp="1588475656812">
+    <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1589097776713">
       <screen x="0" y="23" width="1440" height="796" />
     </state>
-    <state width="1358" height="181" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1588475656812" />
+    <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.796@0.23.1440.796" timestamp="1589097776713" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1589161682017">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589161682017" />
+    <state width="1358" height="181" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1588686805268" />
     <state width="1358" height="227" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290147" />
-    <state width="1358" height="181" key="GridCell.Tab.0.center" timestamp="1588475656811">
-      <screen x="0" y="23" width="1440" height="796" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1589161682016">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="181" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1588475656811" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589161682016" />
+    <state width="1358" height="181" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1588686805266" />
     <state width="1358" height="227" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1358" height="181" key="GridCell.Tab.0.left" timestamp="1588475656811">
-      <screen x="0" y="23" width="1440" height="796" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1589161682015">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="181" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1588475656811" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589161682015" />
+    <state width="1358" height="181" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1588686805266" />
     <state width="1358" height="227" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290145" />
-    <state width="1358" height="181" key="GridCell.Tab.0.right" timestamp="1588475656812">
-      <screen x="0" y="23" width="1440" height="796" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1589161682016">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1358" height="181" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1588475656812" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589161682016" />
+    <state width="1358" height="181" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1588686805267" />
     <state width="1358" height="227" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
     <state width="1358" height="227" key="GridCell.Tab.1.bottom" timestamp="1587917290149">
       <screen x="0" y="23" width="1440" height="800" />
@@ -419,9 +525,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="527" y="169" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690473397" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1588088805876">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1588659892148">
+      <screen x="0" y="23" width="1440" height="796" />
     </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1588659892148" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1588088805876" />
     <state x="300" y="192" key="Vcs.Push.Dialog.v2" timestamp="1588088841758">
@@ -429,6 +536,10 @@
     </state>
     <state x="300" y="192" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1588088841758" />
     <state x="300" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.810@0.23.1440.810" timestamp="1587831444160" />
+    <state x="491" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589099876439">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="491" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.796@0.23.1440.796" timestamp="1589099876439" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
