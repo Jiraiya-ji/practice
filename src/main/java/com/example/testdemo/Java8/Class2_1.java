@@ -4,6 +4,7 @@ import lombok.Data;
 import static java.util.stream.Collectors.toList;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Class2_1 {
     public static void main(String[] args){
@@ -35,6 +36,11 @@ public class Class2_1 {
         List<Dish> vegetarianMenu = menu.stream()
                                         .filter(dish->dish.isVegetarian())
                                         .collect(toList());
+
+        String[] strs = {"hello","word"};
+        Arrays.asList(strs).stream().map(word->word.split(""))
+                                    .flatMap(s-> Arrays.stream(s))
+                                    .collect(Collectors.toList());
     }
 }
 @Data

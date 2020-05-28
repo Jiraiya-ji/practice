@@ -20,15 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="移动数组">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_6_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/MyCollectorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/OpenLock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/realize/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/realize/MyCircularQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/restAssured/RestAssuredTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/restAssured/RestAssuredTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class1_3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class1_3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class1_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class1_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/realize/MyCircularQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/realize/MyCircularQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/restAssured/RestAssuredTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_5_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_5_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/SearchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/SearchMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,14 +85,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MyCircularQueue">
-    <configuration name="Class1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Java8.Class1_3" />
+  <component name="RunManager" selected="Application.OpenLock">
+    <configuration name="Class2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Java8.Class2_1" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
@@ -113,19 +117,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.GetRow" />
-      <module name="testdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.realize.MyCircularQueue" />
       <module name="testdemo" />
@@ -139,12 +130,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestAssuredTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.restAssured.RestAssuredTest" />
+    <configuration name="NumSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.NumSquares" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testdemo.restAssured.*" />
+          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.OpenLock" />
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,20 +164,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetRow" />
-      <item itemvalue="Application.RestAssuredTest" />
-      <item itemvalue="Application.Class1_3" />
       <item itemvalue="Application.MyCircularQueue" />
-      <item itemvalue="Spring Boot.TestdemoApplication" />
       <item itemvalue="Application.GetInfoRestAssured" />
+      <item itemvalue="Application.Class2_1" />
+      <item itemvalue="Application.NumSquares" />
+      <item itemvalue="Spring Boot.TestdemoApplication" />
+      <item itemvalue="Application.OpenLock" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OpenLock" />
+        <item itemvalue="Application.NumSquares" />
+        <item itemvalue="Application.Class2_1" />
         <item itemvalue="Application.MyCircularQueue" />
         <item itemvalue="Application.GetInfoRestAssured" />
-        <item itemvalue="Application.Class1_3" />
-        <item itemvalue="Application.RestAssuredTest" />
-        <item itemvalue="Application.GetRow" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +252,11 @@
       <workItem from="1589332662775" duration="677000" />
       <workItem from="1589355798840" duration="2315000" />
       <workItem from="1589368280836" duration="628000" />
-      <workItem from="1589419122228" duration="13167000" />
+      <workItem from="1589419122228" duration="16851000" />
+      <workItem from="1590036978497" duration="4086000" />
+      <workItem from="1590216398350" duration="10849000" />
+      <workItem from="1590369217593" duration="5346000" />
+      <workItem from="1590628351866" duration="5023000" />
     </task>
     <task id="LOCAL-00001" summary="Merge">
       <created>1576419573935</created>
@@ -382,61 +390,63 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690428218" />
-    <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1589097776713">
-      <screen x="0" y="23" width="1440" height="796" />
-    </state>
-    <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.796@0.23.1440.796" timestamp="1589097776713" />
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1589852187338">
+    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1590629841436">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589852187338" />
+    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590629841436" />
+    <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.796@0.23.1440.796" timestamp="1589097776713" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1590681482431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590681482431" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1589432791883" />
     <state width="1358" height="227" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290147" />
-    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1589852187336">
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1590681482430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589852187336" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590681482430" />
     <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1589432791882" />
     <state width="1358" height="227" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1589852187334">
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1590681482429">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589852187334" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590681482429" />
     <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1589432791877" />
     <state width="1358" height="227" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290145" />
-    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1589852187337">
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1590681482430">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589852187337" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590681482430" />
     <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1589432791883" />
     <state width="1358" height="227" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="290" key="GridCell.Tab.1.bottom" timestamp="1589819552823">
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1590596196024">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589819552823" />
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590596196024" />
     <state width="1358" height="227" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290149" />
-    <state width="1398" height="290" key="GridCell.Tab.1.center" timestamp="1589819552822">
+    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1590596196023">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589819552822" />
+    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590596196023" />
     <state width="1358" height="227" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="290" key="GridCell.Tab.1.left" timestamp="1589819552822">
+    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1590596196022">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589819552822" />
+    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590596196022" />
     <state width="1358" height="227" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="290" key="GridCell.Tab.1.right" timestamp="1589819552823">
+    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1590596196023">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="290" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589819552823" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590596196023" />
     <state width="1358" height="227" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
     <state x="527" y="169" key="RollbackChangesDialog" timestamp="1587690473397">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="527" y="169" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690473397" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1588659892148">
-      <screen x="0" y="23" width="1440" height="796" />
+    <state x="208" y="0" key="SettingsEditor" timestamp="1590065033944">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="208" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590065033944" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1588659892148" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1588088805876" />
@@ -526,6 +536,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/realize/MyCircularQueue.java</url>
           <line>83</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
