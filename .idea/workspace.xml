@@ -20,19 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="移动数组">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_6_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/MyCollectorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/OpenLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/Dougest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/TestAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/IsValid1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_11_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_7_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_9_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/EvalRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/FindTargetSumWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslandsDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_5_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Java8/Class_5_practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/SearchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/SearchMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Class2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish$Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/Java8/Dish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/OpenLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/OpenLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/OpenLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/OpenLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testdemo.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +68,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -83,20 +89,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.OpenLock">
-    <configuration name="Class2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Java8.Class2_1" />
+  <component name="RunManager" selected="Application.CloneGraph">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.practice.Client" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testdemo.Java8.*" />
+          <option name="PATTERN" value="com.example.testdemo.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,34 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetInfoRestAssured" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.restAssured.GetInfoRestAssured" />
-      <module name="testdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testdemo.restAssured.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.realize.MyCircularQueue" />
-      <module name="testdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testdemo.leetcode.realize.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.NumSquares" />
+    <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.CloneGraph" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
@@ -143,12 +129,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.OpenLock" />
+    <configuration name="EvalRPN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.EvalRPN" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsValid1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.IsValid1" />
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Annotation.TestAnnotation" />
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testdemo.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,20 +176,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyCircularQueue" />
-      <item itemvalue="Application.GetInfoRestAssured" />
-      <item itemvalue="Application.Class2_1" />
-      <item itemvalue="Application.NumSquares" />
+      <item itemvalue="Application.IsValid1" />
+      <item itemvalue="Application.TestAnnotation" />
+      <item itemvalue="Application.EvalRPN" />
+      <item itemvalue="Application.Client" />
       <item itemvalue="Spring Boot.TestdemoApplication" />
-      <item itemvalue="Application.OpenLock" />
+      <item itemvalue="Application.CloneGraph" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OpenLock" />
-        <item itemvalue="Application.NumSquares" />
-        <item itemvalue="Application.Class2_1" />
-        <item itemvalue="Application.MyCircularQueue" />
-        <item itemvalue="Application.GetInfoRestAssured" />
+        <item itemvalue="Application.CloneGraph" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.EvalRPN" />
+        <item itemvalue="Application.TestAnnotation" />
+        <item itemvalue="Application.IsValid1" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +268,23 @@
       <workItem from="1590036978497" duration="4086000" />
       <workItem from="1590216398350" duration="10849000" />
       <workItem from="1590369217593" duration="5346000" />
-      <workItem from="1590628351866" duration="5023000" />
+      <workItem from="1590628351866" duration="5165000" />
+      <workItem from="1590715423103" duration="5953000" />
+      <workItem from="1590987113964" duration="11257000" />
+      <workItem from="1591320939160" duration="567000" />
+      <workItem from="1591329284649" duration="4828000" />
+      <workItem from="1591431105557" duration="456000" />
+      <workItem from="1591488210289" duration="2309000" />
+      <workItem from="1591534688985" duration="3978000" />
+      <workItem from="1591630817685" duration="1967000" />
+      <workItem from="1591754324874" duration="739000" />
+      <workItem from="1591774831010" duration="80000" />
+      <workItem from="1591776519989" duration="347000" />
+      <workItem from="1591776984428" duration="344000" />
+      <workItem from="1591804161225" duration="1639000" />
+      <workItem from="1591880805709" duration="5958000" />
+      <workItem from="1592022105539" duration="7225000" />
+      <workItem from="1592221678132" duration="10085000" />
     </task>
     <task id="LOCAL-00001" summary="Merge">
       <created>1576419573935</created>
@@ -390,63 +418,63 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690428218" />
-    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1590629841436">
+    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592359358458">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590629841436" />
+    <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1592359358458" />
     <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.796@0.23.1440.796" timestamp="1589097776713" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1590681482431">
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1592395912642">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590681482431" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592395912642" />
     <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1589432791883" />
     <state width="1358" height="227" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290147" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1590681482430">
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1592395912641">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590681482430" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592395912641" />
     <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1589432791882" />
     <state width="1358" height="227" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1590681482429">
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1592395912640">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590681482429" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592395912640" />
     <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1589432791877" />
     <state width="1358" height="227" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290145" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1590681482430">
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1592395912642">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590681482430" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592395912642" />
     <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1589432791883" />
     <state width="1358" height="227" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1590596196024">
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1592395912795">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590596196024" />
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592395912795" />
     <state width="1358" height="227" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290149" />
-    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1590596196023">
+    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1592395912793">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1590596196023" />
+    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1592395912793" />
     <state width="1358" height="227" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1590596196022">
+    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1592395912792">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1590596196022" />
+    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1592395912792" />
     <state width="1358" height="227" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1590596196023">
+    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1592395912794">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1590596196023" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1592395912794" />
     <state width="1358" height="227" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
     <state x="527" y="169" key="RollbackChangesDialog" timestamp="1587690473397">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="527" y="169" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690473397" />
-    <state x="208" y="0" key="SettingsEditor" timestamp="1590065033944">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1591776969843">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590065033944" />
+    <state x="208" y="23" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1591776969843" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1588659892148" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1588088805876" />
@@ -541,6 +569,31 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumSquares.java</url>
           <line>47</line>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/EvalRPN.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/Client.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/Client.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/Client.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/NumIslandsDFS.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

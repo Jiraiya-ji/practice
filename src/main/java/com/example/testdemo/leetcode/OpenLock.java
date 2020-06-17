@@ -16,13 +16,14 @@ public class OpenLock {
     public int openLock(String[] deadends, String target) {
         Queue<String> stringQueue = new LinkedList<>();
         stringQueue.add("0000");
+
+        Set<String> strings = new HashSet<>();
         //跳过死亡🔒
         for (String str:deadends) {
-            stringQueue.add(str);
+            strings.add(str);
         }
-        Set<String> strings = new HashSet<>();
         int size = 0;
-        while (!stringQueue.isEmpty()&&strings.size()<10*10*10*10){
+        while (!stringQueue.isEmpty()){
             int length = stringQueue.size();
             for (int i = 0; i < length; i++) {
                 String str = stringQueue.poll();
@@ -59,8 +60,10 @@ public class OpenLock {
 
 
     public static void main(String[] args){
-        boolean flag = '0'+1>'9';
-        System.out.println(flag);
+        String[] strs = {"8887","8889","8878","8898","8788","8988","7888","9888"};
+        String target = "8888";
         OpenLock openLock = new OpenLock();
+        openLock.openLock(strs,target);
+
     }
 }
