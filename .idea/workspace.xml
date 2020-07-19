@@ -20,23 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="555498bf-b89c-427c-844f-4deac53ee1a2" name="Default Changelist" comment="移动数组">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/CanVisitAllRooms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/DecodeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/FloodFill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/Merge1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/MyQueue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/SearchInsert1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/UpdateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/pivotIndex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/BusinessLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/TodoReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/ReverseWords1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/FindTargetSumWays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/FindTargetSumWays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/InitClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/practice/InitClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/CloneGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/CloneGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindTargetSumWays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/FindTargetSumWays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IteratorDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/IteratorDetail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/InitClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/practice/InitClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/CanVisitAllRooms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/testdemo/leetcode/CanVisitAllRooms.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,24 +90,11 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CanVisitAllRooms">
+  <component name="RunManager" selected="Application.LongestPalindrome">
     <configuration name="CanVisitAllRooms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.CanVisitAllRooms" />
-      <module name="testdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.DecodeString" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
@@ -141,12 +119,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InitClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.practice.InitClass" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.leetcode.LongestPalindrome" />
       <module name="testdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testdemo.practice.*" />
+          <option name="PATTERN" value="com.example.testdemo.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TodoReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testdemo.Annotation.TodoReport" />
+      <module name="testdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testdemo.Annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,20 +166,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InitClass" />
-      <item itemvalue="Application.DecodeString" />
       <item itemvalue="Application.FloodFill" />
       <item itemvalue="Application.UpdateMatrix" />
       <item itemvalue="Application.CanVisitAllRooms" />
+      <item itemvalue="Application.TodoReport" />
       <item itemvalue="Spring Boot.TestdemoApplication" />
+      <item itemvalue="Application.LongestPalindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPalindrome" />
+        <item itemvalue="Application.TodoReport" />
         <item itemvalue="Application.CanVisitAllRooms" />
         <item itemvalue="Application.UpdateMatrix" />
         <item itemvalue="Application.FloodFill" />
-        <item itemvalue="Application.DecodeString" />
-        <item itemvalue="Application.InitClass" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +288,9 @@
       <workItem from="1594183724099" duration="3224000" />
       <workItem from="1594270395944" duration="720000" />
       <workItem from="1594287737982" duration="9438000" />
-      <workItem from="1594523114216" duration="625000" />
+      <workItem from="1594523114216" duration="7723000" />
+      <workItem from="1594967860245" duration="38000" />
+      <workItem from="1594989461827" duration="6265000" />
     </task>
     <task id="LOCAL-00001" summary="Merge">
       <created>1576419573935</created>
@@ -431,67 +424,79 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="164" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690428218" />
+    <state x="376" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594698524626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1594698524626" />
     <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1592359358458">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="513" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1592359358458" />
     <state x="513" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.796@0.23.1440.796" timestamp="1589097776713" />
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1594040989017">
+    <state x="508" y="212" key="FileChooserDialogImpl" timestamp="1594691410437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594040989017" />
+    <state x="508" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1594691410437" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1595132089424">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595132089424" />
     <state width="1398" height="163" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1593932627542" />
     <state width="1358" height="227" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290147" />
-    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1594040989014">
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1595132089422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594040989014" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595132089422" />
     <state width="1398" height="163" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1593932627541" />
     <state width="1358" height="227" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1594040989013">
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1595132089422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594040989013" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595132089422" />
     <state width="1398" height="163" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1593932627541" />
     <state width="1358" height="227" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290145" />
-    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1594040989015">
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1595132089423">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594040989015" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595132089423" />
     <state width="1398" height="163" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1593932627542" />
     <state width="1358" height="227" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290146" />
-    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1594040989024">
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom" timestamp="1595132089678">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594040989024" />
+    <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595132089678" />
     <state width="1398" height="235" key="GridCell.Tab.1.bottom/0.23.1440.796@0.23.1440.796" timestamp="1592442336768" />
     <state width="1358" height="227" key="GridCell.Tab.1.bottom/0.23.1440.800@0.23.1440.800" timestamp="1587917290149" />
-    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1594040989019">
+    <state width="1398" height="235" key="GridCell.Tab.1.center" timestamp="1595132089676">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1594040989019" />
+    <state width="1398" height="235" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595132089676" />
     <state width="1398" height="235" key="GridCell.Tab.1.center/0.23.1440.796@0.23.1440.796" timestamp="1592442336767" />
     <state width="1358" height="227" key="GridCell.Tab.1.center/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1594040989018">
+    <state width="1398" height="235" key="GridCell.Tab.1.left" timestamp="1595132089675">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1594040989018" />
+    <state width="1398" height="235" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595132089675" />
     <state width="1398" height="235" key="GridCell.Tab.1.left/0.23.1440.796@0.23.1440.796" timestamp="1592442336767" />
     <state width="1358" height="227" key="GridCell.Tab.1.left/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
-    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1594040989020">
+    <state width="1398" height="235" key="GridCell.Tab.1.right" timestamp="1595132089677">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1594040989020" />
+    <state width="1398" height="235" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595132089677" />
     <state width="1398" height="235" key="GridCell.Tab.1.right/0.23.1440.796@0.23.1440.796" timestamp="1592442336767" />
     <state width="1358" height="227" key="GridCell.Tab.1.right/0.23.1440.800@0.23.1440.800" timestamp="1587917290148" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1594691256998">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1594691256998" />
     <state x="527" y="169" key="RollbackChangesDialog" timestamp="1587690473397">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="527" y="169" key="RollbackChangesDialog/0.23.1440.797@0.23.1440.797" timestamp="1587690473397" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1592877548523">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1595129920522">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="23" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592877548523" />
+    <state x="208" y="23" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1595129920522" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.796@0.23.1440.796" timestamp="1588659892148" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1587690735430" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1588088805876" />
@@ -505,10 +510,10 @@
     </state>
     <state x="491" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1592728573679" />
     <state x="491" y="361" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.796@0.23.1440.796" timestamp="1589099876439" />
-    <state x="420" y="207" width="600" height="486" key="find.popup" timestamp="1594195989700">
+    <state x="420" y="207" width="948" height="486" key="find.popup" timestamp="1594691435938">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="420" y="207" width="600" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1594195989700" />
+    <state x="420" y="207" width="948" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1594691435938" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1589536680110">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -621,6 +626,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/CanVisitAllRooms.java</url>
           <line>55</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/Annotation/TodoReport.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/testdemo/leetcode/LongestPalindrome.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
